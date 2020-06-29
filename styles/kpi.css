@@ -1,0 +1,10 @@
+.kpi {
+  background-color: #f4f6f7;
+  display: flex;
+  justify-content: space-around;
+  border: 20px;
+}
+
+h5 {
+  color: dodgerblue;
+}

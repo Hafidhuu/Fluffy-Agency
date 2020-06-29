@@ -1,0 +1,15 @@
+.cfa {
+  background-color: #ff7f57;
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
+  color: aliceblue;
+}
+
+.button {
+  background-color: rgb(26, 26, 226);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15%;
+}

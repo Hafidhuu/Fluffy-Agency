@@ -1,0 +1,10 @@
+.footer {
+  background-color: #11364e;
+  display: grid;
+  justify-content: space-around;
+  color: aliceblue;
+}
+
+button {
+  background-color: #ff7f57;
+}
