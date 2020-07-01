@@ -1,0 +1,29 @@
+.about {
+  &__container {
+    width: 1000px;
+    height: 600px;
+    margin-left: 200px;
+  }
+  &__top {
+    display: flex;
+    justify-content: center;
+  }
+  &__nav {
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    padding: 50px;
+  }
+  &__btm {
+    padding: 30px;
+    margin-bottom: 50x;
+  }
+  &__logos {
+    display: flex;
+    justify-content: space-between;
+  }
+  &__logo {
+    height: 50px;
+    width: 100px;
+  }
+}

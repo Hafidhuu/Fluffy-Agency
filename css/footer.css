@@ -1,0 +1,11 @@
+.footer {
+  background-color: #11364e;
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  text-align: center;
+}
+.footer button {
+  font-size: 25px;
+  background-color: #ff7f57;
+}

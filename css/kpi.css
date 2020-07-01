@@ -1,0 +1,13 @@
+.kpi {
+  background-color: #f4f6f7;
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+}
+.kpi__div {
+  width: 200px;
+  height: 120px;
+}
+.kpi__btm {
+  color: #5959d1;
+}

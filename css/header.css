@@ -1,0 +1,38 @@
+.header {
+  background-color: #f4f6f7;
+}
+.header__container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.header__top {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+.header__logo {
+  width: 100px;
+  height: 50px;
+}
+.header__div {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+}
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+}
+.header__img {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  height: 350px;
+}
+.header__info {
+  width: 500px;
+  height: 350px;
+}
+.header__btn {
+  background-color: coral;
+}

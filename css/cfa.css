@@ -1,0 +1,10 @@
+.cfa {
+  background-color: coral;
+  display: flex;
+  text-align: center;
+  padding: 25px;
+}
+.cfa__btn {
+  background-color: #0625ac;
+  font-size: 25px;
+}

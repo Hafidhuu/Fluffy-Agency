@@ -1,0 +1,20 @@
+.service {
+  &__cntainer {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  &__top {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+  }
+  &__div {
+    width: 300px;
+    height: 200;
+  }
+}

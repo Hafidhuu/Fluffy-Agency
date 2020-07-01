@@ -1,0 +1,23 @@
+.info {
+  padding: 25px;
+  &__container {
+    width: 1000px;
+    height: 450px;
+    margin-left: 100px;
+  }
+  &__div {
+    display: flex;
+    align-content: space-between;
+  }
+  &__icon {
+    width: 5px;
+    height: 15px;
+  }
+  &__top {
+    font-size: 30px;
+    width: 320px;
+  }
+  &__img {
+    margin: -100px;
+  }
+}

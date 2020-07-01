@@ -1,0 +1,27 @@
+.about__container {
+  width: 1000px;
+  height: 600px;
+  margin-left: 200px;
+}
+.about__top {
+  display: flex;
+  justify-content: center;
+}
+.about__nav {
+  display: flex;
+  justify-content: center;
+  width: 1000px;
+  padding: 50px;
+}
+.about__btm {
+  padding: 30px;
+  margin-bottom: 50x;
+}
+.about__logos {
+  display: flex;
+  justify-content: space-between;
+}
+.about__logo {
+  height: 50px;
+  width: 100px;
+}
