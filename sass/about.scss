@@ -1,17 +1,18 @@
 .about {
   &__container {
-    width: 1000px;
-    height: 600px;
-    margin-left: 200px;
+    max-width: 1000px;
+    margin: 0 auto;
   }
   &__top {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
   }
   &__nav {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    width: 1000px;
+    max-width: 1000px;
     padding: 50px;
   }
   &__btm {
@@ -20,6 +21,7 @@
   }
   &__logos {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
   }
   &__logo {

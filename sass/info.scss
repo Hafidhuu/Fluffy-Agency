@@ -1,12 +1,12 @@
 .info {
   padding: 25px;
   &__container {
-    width: 1000px;
-    height: 450px;
-    margin-left: 100px;
+    max-width: 1000px;
+    margin: 0 auto;
   }
   &__div {
     display: flex;
+    flex-wrap: wrap;
     align-content: space-between;
   }
   &__icon {
@@ -15,7 +15,7 @@
   }
   &__top {
     font-size: 30px;
-    width: 320px;
+    max-width: 320px;
   }
   &__img {
     margin: -100px;
